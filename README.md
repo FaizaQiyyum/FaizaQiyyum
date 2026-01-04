@@ -1,5 +1,6 @@
 # 💫 About Me:
-🤖 Computer Science undergraduate focused on building practical AI software that solves real problems.<br><br>💬 Built an AI powered discussion forum using a headless backend with thread summaries and sentiment analysis.<br><br>🌍 Looking to collaborate on open source projects in AI, web platforms, developer tools, and education.<br><br>🛠️ Improving system design, writing cleaner backend logic, and learning how to ship production ready products.<br><br>🐍 Currently learning Python, Django, REST APIs, SQL, and integrating LLMs into real applications.<br><br>🎯 Ask me about hackathons, AI features in web apps, backend basics, and building  projects.<br><br>⚡ Gen Learner.
+🤖 Computer Science undergraduate focused on building practical AI software that solves real problems.<br><br>💬 I build practical software tools for data analysis, automation, and decision support. My work includes an AI based job recommendation system, automated dataset profiling for research workflows, and NLP driven discussion analysis systems.<br><br>🌍 Looking to collaborate on open source projects in AI, web platforms, developer tools, and education.<br><br>🛠️ Currently focused on Python based backend development, data analysis, REST APIs, and building reliable systems that support real world use cases.
+.<br><br>🐍 Open to research oriented internships, open source collaboration, and projects at the intersection of computing and scientific research.<br><br>⚡ Gen Learner.
 
 
 ## 🌐 Socials:
