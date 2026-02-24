@@ -2,7 +2,7 @@
 🤖 Computer Science undergraduate focused on building practical AI software that solves real problems.<br><br>💬 I build practical software tools for data analysis, automation, and decision support. My work includes an AI based job recommendation system, automated dataset profiling for research workflows, and NLP driven discussion analysis systems.<br><br>🌍 Through international hackathons, I have gained experience collaborating on backend and data related components of prototype applications. Looking to collaborate on open source projects in AI, web platforms, developer tools, and education.
 🏆 My project, Forum-AI-Lite, was selected as a winner in an international hackathon. It is a lightweight forum platform enhanced with AI features, and it was highlighted by the judges for its innovation and usability.
 <br><br>🛠️ Currently focused on Python based backend development, data analysis, REST APIs, and building reliable systems that support real world use cases.
-.<br><br>🐍 Open to research oriented internships, open source collaboration, and projects at the intersection of computing and scientific research.<br><br>⚡ Gen Learner.
+.<br><br>🐍 Open to research oriented internships, open source collaboration, and projects at the intersection of computing and scientific research.<br><br>⚡ Gen Z Learner.
 
 
 ## 🌐 Socials:
