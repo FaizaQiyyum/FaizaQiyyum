@@ -14,7 +14,7 @@
 
 🏆 I am a **winner of an international hackathon**. I developed **Forum-AI-Lite as a solo developer**, an AI enhanced forum platform that was recognized by the judges for its innovation and usability.<br><br>
 
-💻 I Participated in 6+ International hackathon.
+💻 I Participated in 6+ International hackathon.<br><br>
 
 🎓 For my **AI based final year project**, I independently developed a recommendation system using machine learning and **content based filtering**. I handled the project independently and received a **4.0 GPA for the project** and an **A grade in Artificial Intelligence**.<br><br>
 
@@ -91,7 +91,7 @@ My final year project was an AI based recommendation system using **machine lear
 I independently handled the development of the project and worked across the implementation from start to completion.
 
 🎓 **Final Year Project GPA: 4.0**<br>
-🏅 **Artificial Intelligence: A Grade**
+
 
 ---
 
