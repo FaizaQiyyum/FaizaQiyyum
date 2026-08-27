@@ -1,8 +1,236 @@
-# 💫 About Me:
-🤖 I’m a Computer Science student currently working as a Lead AI Engineer and Full-Stack Developer for international startups.<br><br>💬 Right now, I’m leading the technical side of Techie Tim’s World (USA), where I’m building a Django backend and integrating OpenAI GPT-4o to help neurodiverse kids learn to code. I’m also working with EcoVerum (Netherlands) to build data-driven tools for sustainable agriculture. I build practical software tools for data analysis, automation, and decision support. My work includes an AI based job recommendation system, automated dataset profiling for research workflows, and NLP driven discussion analysis systems.<br><br>🌍 Through international hackathons, I have gained experience collaborating on backend and data related components of prototype applications. Looking to collaborate on open source projects in AI, web platforms, developer tools, and education.
-🏆 My project, Forum-AI-Lite, was selected as a winner in an international hackathon. It is a lightweight forum platform enhanced with AI features, and it was highlighted by the judges for its innovation and usability.
-<br><br>🛠️ Currently focused on Python based backend development, data analysis, REST APIs, and building reliable systems that support real world use cases.
-.<br><br>🐍 Open to research oriented internships, open source collaboration, and projects at the intersection of computing and scientific research.<br><br>⚡ Gen Z Learner.
+# 👋 Hi, I'm Faiza Qiyyum
+
+### Computer Science Graduate | AI Engineer | Full Stack Developer
+
+## 💫 About Me
+
+🤖 I’m a Computer Science graduate working in **AI, software engineering, data, and intelligent systems**. I currently work with international teams on AI powered applications, backend systems, and data driven software.<br><br>
+
+🇺🇸 **Full Stack AI Engineer, Seek & Sight:** I work on Techie Tim’s World, an AI powered interactive learning platform. My work includes the interactive execution system, Django REST backend, OpenAI GPT integration, command queues, state management, runtime communication, and connecting AI responses with application behavior.<br><br>
+
+🇳🇱 **Full Stack Developer, EcoVerum:** I contribute to a data driven decision intelligence platform for sustainable agriculture, working with Python, Pandas, Django REST, data processing, and LLM integration.<br><br>
+
+🌍 I have also worked with an international team as a **Usability Tester at CoachBridge AS, Norway**, focusing on usability testing and documenting user interaction problems.<br><br>
+
+🏆 I am a **winner of an international hackathon**. I developed **Forum-AI-Lite as a solo developer**, an AI enhanced forum platform that was recognized by the judges for its innovation and usability.<br><br>
+
+🎓 For my **AI based final year project**, I independently developed a recommendation system using machine learning and **content based filtering**. I handled the project independently and received a **4.0 GPA for the project** and an **A grade in Artificial Intelligence**.<br><br>
+
+🔬 I am increasingly interested in the systems behind AI, particularly **AI model execution, computational graphs, profiling, compiler optimization, heterogeneous computing, and efficient AI systems**.<br><br>
+
+🐍 My current focus is on Python based backend development, PyTorch, machine learning, data analysis, REST APIs, and understanding how high level AI programs translate into actual computation and execution.<br><br>
+
+📚 I am currently expanding my knowledge of **computer architecture, compilers, CPU/GPU systems, memory hierarchy, LLVM, MLIR, FPGA concepts, and hardware/software co design**.<br><br>
+
+🌱 I am interested in **research collaborations, open source projects, AI systems, developer tools, and projects involving intelligent computing**.
+
+---
+
+## 🔬 Research Interests
+
+I am interested in understanding how AI workloads can be represented, analyzed, transformed, and executed efficiently.
+
+My current research interests include:
+
+🧠 AI Model Execution<br>
+📊 Performance and Execution Profiling<br>
+🔗 Computational Graph Analysis<br>
+⚙️ Compiler Optimization<br>
+💻 Runtime Systems<br>
+🖥️ Heterogeneous Computing<br>
+🚀 Efficient AI Inference<br>
+🔧 Hardware/Software Co Design<br>
+💾 Memory and Data Movement
+
+---
+
+## 🧪 Research & Technical Projects
+
+### 🔬 PyTorch Model Execution and Hardware Optimization Analyzer
+
+An independent research and engineering project exploring how PyTorch models behave during execution.
+
+The project uses:
+
+`PyTorch` `torch.fx` `torch.profiler`
+
+It focuses on:
+
+• Computational graph inspection<br>
+• Operator level execution analysis<br>
+• Latency measurement<br>
+• Memory usage analysis<br>
+• Batch size experiments<br>
+• Inference mode comparisons<br>
+• Understanding the relationship between model structure and execution performance
+
+The project is currently being developed and tested on personal computer hardware.
+
+🔗 **Project:** [PyTorch Model Execution and Hardware Optimization Analyzer](https://github.com/FaizaQiyyum)
+
+---
+
+### 🏆 Forum-AI-Lite
+
+An AI enhanced forum platform developed as a **solo developer project** for an international hackathon.
+
+The project combines forum functionality with AI based features for improving discussion analysis and user interaction.
+
+🏆 **International Hackathon Winner**
+
+🔗 **Project:** [Forum-AI-Lite](https://github.com/FaizaQiyyum/Forum-AI-Lite)
+
+---
+
+### 🎓 AI Based Recommendation System
+
+My final year project was an AI based recommendation system using **machine learning and content based filtering**.
+
+I independently handled the development of the project and worked across the implementation from start to completion.
+
+🎓 **Final Year Project GPA: 4.0**<br>
+🏅 **Artificial Intelligence: A Grade**
+
+---
+
+## 💼 Professional Experience
+
+### 🇺🇸 Seek & Sight
+**Full Stack AI Engineer**
+
+Working on **Techie Tim’s World**, an AI powered interactive learning platform.
+
+Key areas:
+
+• Phaser.js based interactive execution system<br>
+• Django REST API development<br>
+• OpenAI GPT integration<br>
+• Command queue and sequential execution<br>
+• Runtime state management<br>
+• Frontend and backend communication<br>
+• AI response integration<br>
+• Real time interaction and latency handling
+
+---
+
+### 🇳🇱 EcoVerum
+**Full Stack Developer**
+
+Working on a data driven decision intelligence platform for sustainable agriculture.
+
+Key areas:
+
+• Python<br>
+• Pandas<br>
+• Django REST Framework<br>
+• Data processing<br>
+• LLM integration<br>
+• Backend development
+
+---
+
+### 🇳🇴 CoachBridge AS
+**Usability Tester**
+
+Working on usability testing and evaluation of application onboarding flows.
+
+Key areas:
+
+• Usability testing<br>
+• User interaction analysis<br>
+• Documenting usability problems<br>
+• Communicating findings to development teams
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+`Python` `C` `C++` `Java` `JavaScript`
+
+### AI & Machine Learning
+`PyTorch` `TensorFlow` `Scikit Learn` `Machine Learning` `NLP` `LLMs` `OpenAI API`
+
+### AI Systems
+`torch.fx` `torch.profiler` `Computational Graphs` `Model Profiling` `Execution Analysis` `Performance Analysis`
+
+### Backend
+`Django` `Django REST Framework` `FastAPI` `Flask` `REST APIs`
+
+### Data
+`Pandas` `NumPy` `MySQL` `MongoDB` `SQLite`
+
+### Frontend
+`React` `JavaScript` `HTML` `CSS`
+
+### Cloud & Development
+`Git` `GitHub` `AWS` `Google Cloud` `Vercel` `Cloudflare`
+
+### Tools
+`Figma` `Storybook` `Notion`
+
+---
+
+## 📚 Currently Learning
+
+I am building a stronger foundation in computer systems and AI systems research.
+
+💻 Computer Architecture<br>
+🧠 CPU and GPU Architecture<br>
+💾 Memory Hierarchy and Memory Bandwidth<br>
+⚡ Parallel Computing<br>
+⚙️ Compiler Fundamentals<br>
+🔗 Intermediate Representations<br>
+🧩 LLVM<br>
+🧩 MLIR<br>
+🔲 FPGA Concepts<br>
+🔧 High Level Synthesis<br>
+🔄 Hardware/Software Co Design<br>
+🚀 AI Model Optimization
+
+---
+
+## 🌍 International Experience
+
+I have worked with teams and projects based in:
+
+🇺🇸 United States<br>
+🇳🇱 Netherlands<br>
+🇳🇴 Norway
+
+I have also participated in international hackathons and collaborative software projects.
+
+---
+
+## 📌 Selected Projects
+
+| Project | Focus |
+|---|---|
+| **PyTorch Model Execution and Hardware Optimization Analyzer** | PyTorch graph analysis, execution profiling, latency and memory |
+| **Forum-AI-Lite** | AI enhanced forum platform, hackathon winner |
+| **AI Job Recommendation** | AI based recommendation system |
+| **Data Analysis Assistant** | Automated data analysis workflows |
+| **Job Market Analyzer** | Data driven job market analysis |
+| **CollabCanvas** | Collaborative software platform |
+| **Truehire** | AI and software project |
+| **Portfolio** | Personal software engineering portfolio |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizaQiyyum&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaQiyyum&layout=compact&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+🔗 **GitHub:** [FaizaQiyyum](https://github.com/FaizaQiyyum)<br>
+🔗 **LinkedIn:** [Faiza Qiyyum](https://www.linkedin.com/in/faizaqiyyum)
+
+I am interested in research collaborations, open source projects, AI systems, developer tools, and software projects involving intelligent computing.
 
 
 ## 🌐 Socials:
