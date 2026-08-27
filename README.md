@@ -14,6 +14,8 @@
 
 🏆 I am a **winner of an international hackathon**. I developed **Forum-AI-Lite as a solo developer**, an AI enhanced forum platform that was recognized by the judges for its innovation and usability.<br><br>
 
+💻 I Participated in 6+ International hackathon.
+
 🎓 For my **AI based final year project**, I independently developed a recommendation system using machine learning and **content based filtering**. I handled the project independently and received a **4.0 GPA for the project** and an **A grade in Artificial Intelligence**.<br><br>
 
 🔬 I am increasingly interested in the systems behind AI, particularly **AI model execution, computational graphs, profiling, compiler optimization, heterogeneous computing, and efficient AI systems**.<br><br>
@@ -212,23 +214,9 @@ I have also participated in international hackathons and collaborative software 
 | **Data Analysis Assistant** | Automated data analysis workflows |
 | **Job Market Analyzer** | Data driven job market analysis |
 | **CollabCanvas** | Collaborative software platform |
-| **Truehire** | AI and software project |
 | **Portfolio** | Personal software engineering portfolio |
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaizaQiyyum&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaQiyyum&layout=compact&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-🔗 **GitHub:** [FaizaQiyyum](https://github.com/FaizaQiyyum)<br>
-🔗 **LinkedIn:** [Faiza Qiyyum](https://www.linkedin.com/in/faizaqiyyum)
 
 I am interested in research collaborations, open source projects, AI systems, developer tools, and software projects involving intelligent computing.
 
