@@ -1,226 +1,308 @@
 # 👋 Hi, I'm Faiza Qiyyum
 
-### Computer Science Graduate | AI Engineer | Full Stack Developer
+### AI Software Engineer | AI Systems | Machine Learning | Backend Engineering
 
-## 💫 About Me
+<p align="left">
+  <a href="https://github.com/FaizaQiyyum">
+    <img src="https://img.shields.io/badge/GitHub-FaizaQiyyum-black?style=flat&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/faizaqiyyum">
+    <img src="https://img.shields.io/badge/LinkedIn-FaizaQiyyum-blue?style=flat&logo=linkedin">
+  </a>
+</p>
 
-🤖 I’m a Computer Science graduate working in **AI, software engineering, data, and intelligent systems**. I currently work with international teams on AI powered applications, backend systems, and data driven software.<br><br>
+---
 
-🇺🇸 **Full Stack AI Engineer, Seek & Sight:** I work on Techie Tim’s World, an AI powered interactive learning platform. My work includes the interactive execution system, Django REST backend, OpenAI GPT integration, command queues, state management, runtime communication, and connecting AI responses with application behavior.<br><br>
+## About Me
 
-🇳🇱 **Full Stack Developer, EcoVerum:** I contribute to a data driven decision intelligence platform for sustainable agriculture, working with Python, Pandas, Django REST, data processing, and LLM integration.<br><br>
+I am a Computer Science graduate and AI Software Engineer working on AI powered applications, backend systems, and interactive software.
 
-🌍 I have also worked with an international team as a **Usability Tester at CoachBridge AS, Norway**, focusing on usability testing and documenting user interaction problems.<br><br>
+My professional work has involved building AI application infrastructure, backend APIs, runtime logic, state management, and communication between AI services and interactive applications.
 
-🏆 I am a **winner of an international hackathon**. I developed **Forum-AI-Lite as a solo developer**, an AI enhanced forum platform that was recognized by the judges for its innovation and usability.<br><br>
+At Seek & Sight, I work as a Full Stack AI Engineer on **Techie Tim's World**, an interactive AI learning platform. My responsibilities include the game execution system, Phaser.js runtime behavior, Django REST APIs, OpenAI integration, command execution, state management, and connecting AI responses with application behavior.
 
-💻 I Participated in 6+ International hackathon.<br><br>
+I have also contributed to a data driven decision intelligence platform at EcoVerum, working with Python, Pandas, Django REST, data processing, and LLM integration.
 
-🎓 For my **AI based final year project**, I independently developed a recommendation system using machine learning and **content based filtering**. I handled the project independently and received a **4.0 GPA for the project** and an **A grade in Artificial Intelligence**.<br><br>
+Alongside my professional work, I am developing independent projects to understand AI systems at a deeper technical level.
 
-🔬 I am increasingly interested in the systems behind AI, particularly **AI model execution, computational graphs, profiling, compiler optimization, heterogeneous computing, and efficient AI systems**.<br><br>
+My current research direction is:
 
-🐍 My current focus is on Python based backend development, PyTorch, machine learning, data analysis, REST APIs, and understanding how high level AI programs translate into actual computation and execution.<br><br>
-
-📚 I am currently expanding my knowledge of **computer architecture, compilers, CPU/GPU systems, memory hierarchy, LLVM, MLIR, FPGA concepts, and hardware/software co design**.<br><br>
-
-🌱 I am interested in **research collaborations, open source projects, AI systems, developer tools, and projects involving intelligent computing**.
+**AI Models → Computational Graphs → Execution → Profiling → Optimization → Hardware**
 
 ---
 
 ## 🔬 Research Interests
 
-I am interested in understanding how AI workloads can be represented, analyzed, transformed, and executed efficiently.
+I am interested in understanding how AI workloads are represented, analyzed, optimized, and executed efficiently.
 
-My current research interests include:
+Current interests include:
 
-🧠 AI Model Execution<br>
-📊 Performance and Execution Profiling<br>
-🔗 Computational Graph Analysis<br>
-⚙️ Compiler Optimization<br>
-💻 Runtime Systems<br>
-🖥️ Heterogeneous Computing<br>
-🚀 Efficient AI Inference<br>
-🔧 Hardware/Software Co Design<br>
-💾 Memory and Data Movement
+- AI Systems
+- AI Model Execution
+- Computational Graph Analysis
+- Performance Profiling
+- Compiler Optimization
+- Runtime Systems
+- Heterogeneous Computing
+- Efficient AI Inference
+- Memory and Data Movement
+- Hardware / Software Co Design
+
+I am particularly interested in the connection between high level machine learning frameworks and the underlying systems that execute them.
 
 ---
 
 ## 🧪 Research & Technical Projects
 
-### 🔬 PyTorch Model Execution and Hardware Optimization Analyzer
+### PyTorch Model Execution and Hardware Optimization Analyzer
 
-An independent research and engineering project exploring how PyTorch models behave during execution.
+**Independent Research and Engineering Project**
+
+An experimental project exploring how PyTorch models are represented and executed.
 
 The project uses:
 
-`PyTorch` `torch.fx` `torch.profiler`
+`PyTorch` `torch.fx` `torch.profiler` `Python`
 
-It focuses on:
+Current investigations include:
 
-• Computational graph inspection<br>
-• Operator level execution analysis<br>
-• Latency measurement<br>
-• Memory usage analysis<br>
-• Batch size experiments<br>
-• Inference mode comparisons<br>
-• Understanding the relationship between model structure and execution performance
+- Computational graph inspection
+- Operator level execution analysis
+- CPU execution profiling
+- Latency measurement
+- Memory usage analysis
+- Batch size experiments
+- Inference mode comparisons
+- Relationship between model structure and execution performance
 
-The project is currently being developed and tested on personal computer hardware.
+The goal is to build a stronger understanding of how high level AI programs translate into actual computation.
 
-🔗 **Project:** [PyTorch Model Execution and Hardware Optimization Analyzer](https://github.com/FaizaQiyyum)
-
----
-
-### 🏆 Forum-AI-Lite
-
-An AI enhanced forum platform developed as a **solo developer project** for an international hackathon.
-
-The project combines forum functionality with AI based features for improving discussion analysis and user interaction.
-
-🏆 **International Hackathon Winner**
-
-🔗 **Project:** [Forum-AI-Lite](https://github.com/FaizaQiyyum/Forum-AI-Lite)
+🔗 [Repository](https://github.com/FaizaQiyyum/pytorch-hardware-optimization-analyzer)
 
 ---
 
-### 🎓 AI Based Recommendation System
+### AI Based Job Recommendation System
 
-My final year project was an AI based recommendation system using **machine learning and content based filtering**.
+**Final Year Project**
 
-I independently handled the development of the project and worked across the implementation from start to completion.
+An AI based recommendation system developed independently using machine learning and content based filtering.
 
-🎓 **Final Year Project GPA: 4.0**<br>
+Technologies:
 
+`Python` `Django` `Machine Learning` `Scikit Learn`
+
+I independently handled the project from development through completion.
+
+**Final Year Project Grade: 4.0 / 4.0**
+
+🔗 [Repository](https://github.com/FaizaQiyyum/AI-Job-Recommendation)
+
+---
+
+### Forum AI Lite
+
+**International Hackathon Winner | Solo Developer**
+
+An AI enhanced forum platform developed during an international hackathon.
+
+The project explored how AI can be integrated into online discussion systems for analysis and summarization.
+
+Technologies:
+
+`Python` `Django` `React` `JavaScript`
+
+🔗 [Repository](https://github.com/FaizaQiyyum/Forum-AI-Lite)
+
+🔗 [Live Application](https://forumailite.vercel.app/)
+
+---
+
+### Data Analysis Assistant
+
+A Python based tool for automating dataset profiling and analysis workflows.
+
+Technologies:
+
+`Python` `Pandas` `FastAPI` `JavaScript`
+
+🔗 [Repository](https://github.com/FaizaQiyyum/Data-Analysis-Assistant)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🇺🇸 Seek & Sight
-**Full Stack AI Engineer**
+### Full Stack AI Engineer
 
-Working on **Techie Tim’s World**, an AI powered interactive learning platform.
+**Seek & Sight, USA | Remote**
 
-Key areas:
+**May 2026 – Present**
 
-• Phaser.js based interactive execution system<br>
-• Django REST API development<br>
-• OpenAI GPT integration<br>
-• Command queue and sequential execution<br>
-• Runtime state management<br>
-• Frontend and backend communication<br>
-• AI response integration<br>
-• Real time interaction and latency handling
+Working on **Techie Tim's World**, an AI powered interactive learning platform.
 
----
+My work includes:
 
-### 🇳🇱 EcoVerum
-**Full Stack Developer**
+- Designing and developing game execution logic using Phaser.js
+- Building command queue and sequential execution systems
+- Developing Django REST APIs
+- Integrating OpenAI models into application workflows
+- Managing runtime state and execution context
+- Connecting AI responses with application behavior
+- Designing communication between frontend, backend, and AI services
+- Working with real time interaction and latency constraints
+- Translating educational requirements into technical implementation specifications
 
-Working on a data driven decision intelligence platform for sustainable agriculture.
-
-Key areas:
-
-• Python<br>
-• Pandas<br>
-• Django REST Framework<br>
-• Data processing<br>
-• LLM integration<br>
-• Backend development
+The role has given me practical experience with the boundary between AI services, application software, and runtime execution.
 
 ---
 
-### 🇳🇴 CoachBridge AS
-**Usability Tester**
+### Full Stack Developer
 
-Working on usability testing and evaluation of application onboarding flows.
+**EcoVerum, Netherlands | Remote**
 
-Key areas:
+Worked on a data driven decision intelligence platform for sustainable agriculture.
 
-• Usability testing<br>
-• User interaction analysis<br>
-• Documenting usability problems<br>
-• Communicating findings to development teams
+- Python
+- Pandas
+- Django REST Framework
+- Data processing
+- PostgreSQL
+- LLM integration
+- Backend development
+
+---
+
+### Usability Tester
+
+**CoachBridge AS, Norway | Remote**
+
+Worked with an international team on usability testing of application workflows.
+
+- Usability testing
+- User interaction analysis
+- Software issue documentation
+- Structured testing reports
+- Communication with development teams
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming
+
 `Python` `C` `C++` `Java` `JavaScript`
 
 ### AI & Machine Learning
-`PyTorch` `TensorFlow` `Scikit Learn` `Machine Learning` `NLP` `LLMs` `OpenAI API`
+
+`PyTorch` `TensorFlow` `Scikit Learn` `Machine Learning` `NLP` `LLMs`
 
 ### AI Systems
-`torch.fx` `torch.profiler` `Computational Graphs` `Model Profiling` `Execution Analysis` `Performance Analysis`
+
+`torch.fx` `torch.profiler` `Computational Graphs` `Model Profiling` `Execution Analysis`
 
 ### Backend
+
 `Django` `Django REST Framework` `FastAPI` `Flask` `REST APIs`
 
 ### Data
-`Pandas` `NumPy` `MySQL` `MongoDB` `SQLite`
+
+`Pandas` `NumPy` `MySQL` `MongoDB` `SQLite` `PostgreSQL`
 
 ### Frontend
-`React` `JavaScript` `HTML` `CSS`
 
-### Cloud & Development
+`React` `JavaScript` `HTML` `CSS` `Phaser.js`
+
+### Development
+
 `Git` `GitHub` `AWS` `Google Cloud` `Vercel` `Cloudflare`
-
-### Tools
-`Figma` `Storybook` `Notion`
 
 ---
 
 ## 📚 Currently Learning
 
-I am building a stronger foundation in computer systems and AI systems research.
+I am currently strengthening my understanding of computer systems that support modern AI workloads.
 
-💻 Computer Architecture<br>
-🧠 CPU and GPU Architecture<br>
-💾 Memory Hierarchy and Memory Bandwidth<br>
-⚡ Parallel Computing<br>
-⚙️ Compiler Fundamentals<br>
-🔗 Intermediate Representations<br>
-🧩 LLVM<br>
-🧩 MLIR<br>
-🔲 FPGA Concepts<br>
-🔧 High Level Synthesis<br>
-🔄 Hardware/Software Co Design<br>
-🚀 AI Model Optimization
+- Computer Architecture
+- CPU and GPU Architecture
+- Memory Hierarchy
+- Memory Bandwidth
+- Parallel Computing
+- Compiler Fundamentals
+- Intermediate Representations
+- LLVM
+- MLIR
+- Heterogeneous Computing
+- Hardware Acceleration
+- Hardware / Software Co Design
+- AI Model Optimization
 
----
-
-## 🌍 International Experience
-
-I have worked with teams and projects based in:
-
-🇺🇸 United States<br>
-🇳🇱 Netherlands<br>
-🇳🇴 Norway
-
-I have also participated in international hackathons and collaborative software projects.
+My goal is to move from understanding AI primarily at the application level toward understanding the systems underneath AI workloads.
 
 ---
 
-## 📌 Selected Projects
+## 🏆 Awards & Achievements
 
-| Project | Focus |
-|---|---|
-| **PyTorch Model Execution and Hardware Optimization Analyzer** | PyTorch graph analysis, execution profiling, latency and memory |
-| **Forum-AI-Lite** | AI enhanced forum platform, hackathon winner |
-| **AI Job Recommendation** | AI based recommendation system |
-| **Data Analysis Assistant** | Automated data analysis workflows |
-| **Job Market Analyzer** | Data driven job market analysis |
-| **CollabCanvas** | Collaborative software platform |
-| **Portfolio** | Personal software engineering portfolio |
+- International Hackathon Winner
+- Solo Developer, Forum AI Lite
+- Final Year Project Grade: 4.0 / 4.0
+- A Grade in Artificial Intelligence
+- Google Cloud Arcade Top Performer
+- Top Performer, AI Seekho Program, GDG Cloud Lahore
 
 ---
 
-I am interested in research collaborations, open source projects, AI systems, developer tools, and software projects involving intelligent computing.
+## 🎓 Education
 
+### Bachelor of Science in Computer Science
 
+**Virtual University of Pakistan**
+
+Final Year Project:
+
+**AI Based Job Recommendation System using Content Based Filtering**
+
+Final Year Project Grade:
+
+**4.0 / 4.0**
+
+---
+
+## 🔍 Research Direction
+
+I am currently transitioning from practical AI software engineering toward AI systems research.
+
+I want to understand questions such as:
+
+- How are machine learning models represented as computational graphs?
+- How do operators behave during actual execution?
+- Where do performance bottlenecks occur?
+- How do memory movement and hardware characteristics affect AI workloads?
+- How can computational graphs be transformed for better execution?
+- How can compilers and runtime systems improve AI performance?
+- How should AI workloads be mapped onto heterogeneous hardware?
+
+I am currently exploring these questions through independent experiments with PyTorch, `torch.fx`, and `torch.profiler`, while building stronger foundations in computer architecture and compiler systems.
+
+---
+
+## 🌱 Open To
+
+- AI Systems Research
+- Graduate Research
+- Research Assistantships
+- Open Source Systems Projects
+- AI Infrastructure Projects
+- Compiler and Runtime Projects
+- Hardware / Software Co Design Projects
+
+---
+
+## 📫 Contact
+
+**Email:** faizaqiyyum121@gmail.com
+
+**GitHub:** https://github.com/FaizaQiyyum
+
+**LinkedIn:** https://www.linkedin.com/in/faizaqiyyum
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizaqiyyum) 
 
