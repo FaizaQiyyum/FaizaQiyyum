@@ -244,9 +244,8 @@ My goal is to move from understanding AI primarily at the application level towa
 - International Hackathon Winner
 - Solo Developer, Forum AI Lite
 - Final Year Project Grade: 4.0 / 4.0
-- A Grade in Artificial Intelligence
 - Google Cloud Arcade Top Performer
-- Top Performer, AI Seekho Program, GDG Cloud Lahore
+- Top Performer, AI Seekho Program, GDG Google Cloud 
 
 ---
 
@@ -297,8 +296,6 @@ I am currently exploring these questions through independent experiments with Py
 ---
 
 ## 📫 Contact
-
-**Email:** faizaqiyyum121@gmail.com
 
 **GitHub:** https://github.com/FaizaQiyyum
 
