@@ -19,7 +19,7 @@ I am a Computer Science graduate and AI Software Engineer working on AI powered 
 
 My professional work has involved building AI application infrastructure, backend APIs, runtime logic, state management, and communication between AI services and interactive applications.
 
-At Seek & Sight, I work as a Full Stack AI Engineer on **Techie Tim's World**, an interactive AI learning platform. My responsibilities include the game execution system, Phaser.js runtime behavior, Django REST APIs, OpenAI integration, command execution, state management, and connecting AI responses with application behavior.
+At Seek & Sight, I work as a Full Stack AI Engineer on **Techie Tim's World**, an interactive AI learning platform. My responsibilities include the game execution system, Phaser.js runtime behavior, OpenAI, Django REST APIs, OpenAI integration, command execution, state management, and connecting AI responses with application behavior.
 
 I have also contributed to a data driven decision intelligence platform at EcoVerum, working with Python, Pandas, Django REST, data processing, and LLM integration.
 
